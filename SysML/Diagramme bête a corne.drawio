@@ -1,0 +1,39 @@
+<mxfile host="app.diagrams.net">
+  <diagram name="Page-1" id="OWHBv1Bos4h2fearoon4">
+    <mxGraphModel dx="1174" dy="654" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="1">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="Oz_H-t4qqzzGLueHtjLv-1" parent="1" style="ellipse;whiteSpace=wrap;html=1;shapeInside=1;rounded=1;roundedPerimeter=1;" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;Mobility Shop&lt;/font&gt;" vertex="1">
+          <mxGeometry height="80" width="120" x="360" y="240" as="geometry" />
+        </mxCell>
+        <mxCell id="Oz_H-t4qqzzGLueHtjLv-2" parent="1" style="ellipse;whiteSpace=wrap;html=1;shapeInside=1;rounded=1;roundedPerimeter=1;" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Personne à Mobilité Réduite&lt;/font&gt;" vertex="1">
+          <mxGeometry height="80" width="120" x="200" y="120" as="geometry" />
+        </mxCell>
+        <mxCell id="Oz_H-t4qqzzGLueHtjLv-3" edge="1" parent="1" source="Oz_H-t4qqzzGLueHtjLv-2" style="endArrow=none;html=1;rounded=1;defaultLabelBackgroundColor=page;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" target="Oz_H-t4qqzzGLueHtjLv-4" value="">
+          <mxGeometry height="50" relative="1" width="50" x="0.055" as="geometry">
+            <Array as="points">
+              <mxPoint x="330" y="240" />
+              <mxPoint x="420" y="260" />
+              <mxPoint x="520" y="240" />
+            </Array>
+            <mxPoint x="390" y="430" as="sourcePoint" />
+            <mxPoint x="600" y="200" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Oz_H-t4qqzzGLueHtjLv-4" parent="1" style="ellipse;whiteSpace=wrap;html=1;shapeInside=1;rounded=1;roundedPerimeter=1;" value="&lt;font style=&quot;font-size: 13px;&quot;&gt;Les Voies De Mobilité Routière&lt;/font&gt;" vertex="1">
+          <mxGeometry height="80" width="120" x="520" y="120" as="geometry" />
+        </mxCell>
+        <mxCell id="Oz_H-t4qqzzGLueHtjLv-11" edge="1" parent="1" style="endArrow=none;html=1;rounded=1;defaultLabelBackgroundColor=page;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" target="Oz_H-t4qqzzGLueHtjLv-1" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="420" y="400" as="sourcePoint" />
+            <mxPoint x="450" y="320" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Oz_H-t4qqzzGLueHtjLv-12" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;Faciliter le déplacement des personnes à mobilité réduite&lt;/font&gt;" vertex="1">
+          <mxGeometry height="80" width="200" x="320" y="400" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
