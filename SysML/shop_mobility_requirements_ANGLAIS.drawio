@@ -1,0 +1,130 @@
+<mxfile host="app.diagrams.net">
+  <diagram name="Shop Mobility" id="shopmob">
+    <mxGraphModel dx="2142" dy="1189" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2200" pageHeight="800" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="frame" parent="1" style="rounded=0;html=1;fillColor=none;strokeColor=#333333;align=left;verticalAlign=top;spacingLeft=8;fontSize=13;" value="&lt;b&gt;req&lt;/b&gt; [Model] ShopMobility [ Shop Mobility Requirements ]" vertex="1">
+          <mxGeometry height="700" width="2100" x="20" y="20" as="geometry" />
+        </mxCell>
+        <mxCell id="n3" parent="1" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=top;spacingLeft=6;spacingRight=6;fillColor=#f6edcf;strokeColor=#5a5a48;fontSize=11;" value="&lt;div style=&quot;text-align:center&quot;&gt;«requirement»&lt;br&gt;&lt;b style=&quot;font-size:12px&quot;&gt;Shop Mobility&lt;/b&gt;&lt;/div&gt;&lt;hr size=&quot;1&quot;&gt;Id = “1”&lt;br&gt;Text = “The Shop Mobility shall move its user from point A to point B.”" vertex="1">
+          <mxGeometry height="90" width="300" x="855" y="60" as="geometry" />
+        </mxCell>
+        <mxCell id="n4" parent="1" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=top;spacingLeft=6;spacingRight=6;fillColor=#f6edcf;strokeColor=#5a5a48;fontSize=11;" value="&lt;div style=&quot;text-align:center&quot;&gt;«requirement»&lt;br&gt;&lt;b style=&quot;font-size:12px&quot;&gt;Standards compliance&lt;/b&gt;&lt;/div&gt;&lt;hr size=&quot;1&quot;&gt;Id = “1.1”&lt;br&gt;Text = “The Shop Mobility shall comply with the applicable standards.”" vertex="1">
+          <mxGeometry height="120" width="180" x="40" y="240" as="geometry" />
+        </mxCell>
+        <mxCell id="n5" parent="1" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=top;spacingLeft=6;spacingRight=6;fillColor=#f6edcf;strokeColor=#5a5a48;fontSize=11;" value="&lt;div style=&quot;text-align:center&quot;&gt;«requirement»&lt;br&gt;&lt;b style=&quot;font-size:12px&quot;&gt;Road use&lt;/b&gt;&lt;/div&gt;&lt;hr size=&quot;1&quot;&gt;Id = “1.2”&lt;br&gt;Text = “The Shop Mobility shall be able to travel on roads and paths.”" vertex="1">
+          <mxGeometry height="120" width="180" x="290" y="240" as="geometry" />
+        </mxCell>
+        <mxCell id="n6" parent="1" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=top;spacingLeft=6;spacingRight=6;fillColor=#f6edcf;strokeColor=#5a5a48;fontSize=11;" value="&lt;div style=&quot;text-align:center&quot;&gt;«requirement»&lt;br&gt;&lt;b style=&quot;font-size:12px&quot;&gt;Electrical power supply&lt;/b&gt;&lt;/div&gt;&lt;hr size=&quot;1&quot;&gt;Id = “1.3”&lt;br&gt;Text = “The Shop Mobility shall be powered by the EDF electrical grid.”" vertex="1">
+          <mxGeometry height="120" width="180" x="540" y="240" as="geometry" />
+        </mxCell>
+        <mxCell id="n7" parent="1" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=top;spacingLeft=6;spacingRight=6;fillColor=#f6edcf;strokeColor=#5a5a48;fontSize=11;" value="&lt;div style=&quot;text-align:center&quot;&gt;«requirement»&lt;br&gt;&lt;b style=&quot;font-size:12px&quot;&gt;Solar recharging&lt;/b&gt;&lt;/div&gt;&lt;hr size=&quot;1&quot;&gt;Id = “1.4”&lt;br&gt;Text = “The Shop Mobility shall be able to recharge using solar energy.”" vertex="1">
+          <mxGeometry height="120" width="180" x="790" y="240" as="geometry" />
+        </mxCell>
+        <mxCell id="n8" parent="1" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=top;spacingLeft=6;spacingRight=6;fillColor=#f6edcf;strokeColor=#5a5a48;fontSize=11;" value="&lt;div style=&quot;text-align:center&quot;&gt;«requirement»&lt;br&gt;&lt;b style=&quot;font-size:12px&quot;&gt;Eco-friendliness&lt;/b&gt;&lt;/div&gt;&lt;hr size=&quot;1&quot;&gt;Id = “1.5”&lt;br&gt;Text = “The Shop Mobility shall be as eco-friendly as possible.”" vertex="1">
+          <mxGeometry height="120" width="180" x="1040" y="240" as="geometry" />
+        </mxCell>
+        <mxCell id="n9" parent="1" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=top;spacingLeft=6;spacingRight=6;fillColor=#f6edcf;strokeColor=#5a5a48;fontSize=11;" value="&lt;div style=&quot;text-align:center&quot;&gt;«requirement»&lt;br&gt;&lt;b style=&quot;font-size:12px&quot;&gt;Low CO2 emissions&lt;/b&gt;&lt;/div&gt;&lt;hr size=&quot;1&quot;&gt;Id = “1.6”&lt;br&gt;Text = “The Shop Mobility shall emit the least amount of CO2.”" vertex="1">
+          <mxGeometry height="120" width="180" x="1290" y="240" as="geometry" />
+        </mxCell>
+        <mxCell id="n10" parent="1" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=top;spacingLeft=6;spacingRight=6;fillColor=#f6edcf;strokeColor=#5a5a48;fontSize=11;" value="&lt;div style=&quot;text-align:center&quot;&gt;«requirement»&lt;br&gt;&lt;b style=&quot;font-size:12px&quot;&gt;Repairability&lt;/b&gt;&lt;/div&gt;&lt;hr size=&quot;1&quot;&gt;Id = “1.7”&lt;br&gt;Text = “The Shop Mobility shall be repairable.”" vertex="1">
+          <mxGeometry height="120" width="180" x="1540" y="240" as="geometry" />
+        </mxCell>
+        <mxCell id="n11" parent="1" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=top;spacingLeft=6;spacingRight=6;fillColor=#f6edcf;strokeColor=#5a5a48;fontSize=11;" value="&lt;div style=&quot;text-align:center&quot;&gt;«requirement»&lt;br&gt;&lt;b style=&quot;font-size:12px&quot;&gt;Ease of use&lt;/b&gt;&lt;/div&gt;&lt;hr size=&quot;1&quot;&gt;Id = “1.8”&lt;br&gt;Text = “The Shop Mobility shall be easy to use.”" vertex="1">
+          <mxGeometry height="120" width="180" x="1790" y="240" as="geometry" />
+        </mxCell>
+        <mxCell id="n12" edge="1" parent="1" source="n3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=none;startArrow=circlePlus;startFill=0;startSize=12;exitX=0.5;exitY=1;entryX=0.5;entryY=0;strokeColor=#333333;" target="n4" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="n13" edge="1" parent="1" source="n3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=none;startArrow=circlePlus;startFill=0;startSize=12;exitX=0.5;exitY=1;entryX=0.5;entryY=0;strokeColor=#333333;" target="n5" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="n14" edge="1" parent="1" source="n3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=none;startArrow=circlePlus;startFill=0;startSize=12;exitX=0.5;exitY=1;entryX=0.5;entryY=0;strokeColor=#333333;" target="n6" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="n15" edge="1" parent="1" source="n3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=none;startArrow=circlePlus;startFill=0;startSize=12;exitX=0.5;exitY=1;entryX=0.5;entryY=0;strokeColor=#333333;" target="n7" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="n16" edge="1" parent="1" source="n3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=none;startArrow=circlePlus;startFill=0;startSize=12;exitX=0.5;exitY=1;entryX=0.5;entryY=0;strokeColor=#333333;" target="n8" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="n17" edge="1" parent="1" source="n3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=none;startArrow=circlePlus;startFill=0;startSize=12;exitX=0.5;exitY=1;entryX=0.5;entryY=0;strokeColor=#333333;" target="n9" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="n18" edge="1" parent="1" source="n3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=none;startArrow=circlePlus;startFill=0;startSize=12;exitX=0.5;exitY=1;entryX=0.5;entryY=0;strokeColor=#333333;" target="n10" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="n19" edge="1" parent="1" source="n3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=none;startArrow=circlePlus;startFill=0;startSize=12;exitX=0.5;exitY=1;entryX=0.5;entryY=0;strokeColor=#333333;" target="n11" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="n20" edge="1" parent="1" source="n7" style="edgeStyle=orthogonalEdgeStyle;html=1;dashed=1;endArrow=open;endFill=0;strokeColor=#333333;fontSize=10;exitX=1;exitY=0.5;entryX=0;entryY=0.5;" target="n8" value="«deriveReqt»">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="n21" edge="1" parent="1" source="n9" style="edgeStyle=orthogonalEdgeStyle;html=1;dashed=1;endArrow=open;endFill=0;strokeColor=#333333;fontSize=10;exitX=0;exitY=0.5;entryX=1;entryY=0.5;" target="n8" value="«deriveReqt»">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="n22" parent="1" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=top;spacingLeft=6;spacingRight=6;fillColor=#f6edcf;strokeColor=#5a5a48;fontSize=11;" value="&lt;div style=&quot;text-align:center&quot;&gt;«requirement»&lt;br&gt;&lt;b style=&quot;font-size:12px&quot;&gt;Sidewalk speed&lt;/b&gt;&lt;/div&gt;&lt;hr size=&quot;1&quot;&gt;Id = “1.1.1”&lt;br&gt;Text = “Speed on sidewalk shall not exceed 6 km/h (3.72 mph).”" vertex="1">
+          <mxGeometry height="150" width="160" x="40" y="490" as="geometry" />
+        </mxCell>
+        <mxCell id="n23" edge="1" parent="1" source="n4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=none;startArrow=circlePlus;startFill=0;startSize=12;exitX=0.5;exitY=1;entryX=0.5;entryY=0;strokeColor=#333333;" target="n22" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="n24" parent="1" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=top;spacingLeft=6;spacingRight=6;fillColor=#f6edcf;strokeColor=#5a5a48;fontSize=11;" value="&lt;div style=&quot;text-align:center&quot;&gt;«requirement»&lt;br&gt;&lt;b style=&quot;font-size:12px&quot;&gt;Road speed&lt;/b&gt;&lt;/div&gt;&lt;hr size=&quot;1&quot;&gt;Id = “1.1.2”&lt;br&gt;Text = “Speed on road shall not exceed 25 km/h (15.5 mph).”" vertex="1">
+          <mxGeometry height="150" width="160" x="210" y="490" as="geometry" />
+        </mxCell>
+        <mxCell id="n25" edge="1" parent="1" source="n4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=none;startArrow=circlePlus;startFill=0;startSize=12;exitX=0.5;exitY=1;entryX=0.5;entryY=0;strokeColor=#333333;" target="n24" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="n26" parent="1" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=top;spacingLeft=6;spacingRight=6;fillColor=#f6edcf;strokeColor=#5a5a48;fontSize=11;" value="&lt;div style=&quot;text-align:center&quot;&gt;«requirement»&lt;br&gt;&lt;b style=&quot;font-size:12px&quot;&gt;Dimensions&lt;/b&gt;&lt;/div&gt;&lt;hr size=&quot;1&quot;&gt;Id = “1.1.3”&lt;br&gt;Text = “Length shall be between 90 cm and 130 cm and width between 50 cm and 75 cm.”" vertex="1">
+          <mxGeometry height="150" width="160" x="380" y="490" as="geometry" />
+        </mxCell>
+        <mxCell id="n27" edge="1" parent="1" source="n4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=none;startArrow=circlePlus;startFill=0;startSize=12;exitX=0.5;exitY=1;entryX=0.5;entryY=0;strokeColor=#333333;" target="n26" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="n28" parent="1" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=top;spacingLeft=6;spacingRight=6;fillColor=#f6edcf;strokeColor=#5a5a48;fontSize=11;" value="&lt;div style=&quot;text-align:center&quot;&gt;«requirement»&lt;br&gt;&lt;b style=&quot;font-size:12px&quot;&gt;Maximum weight&lt;/b&gt;&lt;/div&gt;&lt;hr size=&quot;1&quot;&gt;Id = “1.1.4”&lt;br&gt;Text = “Maximum weight shall be between 115 kg and 220 kg.”" vertex="1">
+          <mxGeometry height="150" width="160" x="550" y="490" as="geometry" />
+        </mxCell>
+        <mxCell id="n29" edge="1" parent="1" source="n4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=none;startArrow=circlePlus;startFill=0;startSize=12;exitX=0.5;exitY=1;entryX=0.5;entryY=0;strokeColor=#333333;" target="n28" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="n30" parent="1" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=top;spacingLeft=6;spacingRight=6;fillColor=#f6edcf;strokeColor=#5a5a48;fontSize=11;" value="&lt;div style=&quot;text-align:center&quot;&gt;«requirement»&lt;br&gt;&lt;b style=&quot;font-size:12px&quot;&gt;Range&lt;/b&gt;&lt;/div&gt;&lt;hr size=&quot;1&quot;&gt;Id = “1.1.5”&lt;br&gt;Text = “Range shall be between 15 km and 70 km.”" vertex="1">
+          <mxGeometry height="150" width="160" x="720" y="490" as="geometry" />
+        </mxCell>
+        <mxCell id="n31" edge="1" parent="1" source="n4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=none;startArrow=circlePlus;startFill=0;startSize=12;exitX=0.5;exitY=1;entryX=0.5;entryY=0;strokeColor=#333333;" target="n30" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="n32" parent="1" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=top;spacingLeft=6;spacingRight=6;fillColor=#f6edcf;strokeColor=#5a5a48;fontSize=11;" value="&lt;div style=&quot;text-align:center&quot;&gt;«requirement»&lt;br&gt;&lt;b style=&quot;font-size:12px&quot;&gt;Braking&lt;/b&gt;&lt;/div&gt;&lt;hr size=&quot;1&quot;&gt;Id = “1.1.6”&lt;br&gt;Text = “The Shop Mobility shall be equipped with a brake.”" vertex="1">
+          <mxGeometry height="150" width="160" x="890" y="490" as="geometry" />
+        </mxCell>
+        <mxCell id="n33" edge="1" parent="1" source="n4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=none;startArrow=circlePlus;startFill=0;startSize=12;exitX=0.5;exitY=1;entryX=0.5;entryY=0;strokeColor=#333333;" target="n32" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="n34" parent="1" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=top;spacingLeft=6;spacingRight=6;fillColor=#f6edcf;strokeColor=#5a5a48;fontSize=11;" value="&lt;div style=&quot;text-align:center&quot;&gt;«requirement»&lt;br&gt;&lt;b style=&quot;font-size:12px&quot;&gt;Signaling&lt;/b&gt;&lt;/div&gt;&lt;hr size=&quot;1&quot;&gt;Id = “1.1.7”&lt;br&gt;Text = “The Shop Mobility shall provide sound and visual signals.”" vertex="1">
+          <mxGeometry height="150" width="160" x="1060" y="490" as="geometry" />
+        </mxCell>
+        <mxCell id="n35" edge="1" parent="1" source="n4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=none;startArrow=circlePlus;startFill=0;startSize=12;exitX=0.5;exitY=1;entryX=0.5;entryY=0;strokeColor=#333333;" target="n34" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="n36" parent="1" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=top;spacingLeft=6;spacingRight=6;fillColor=#f6edcf;strokeColor=#5a5a48;fontSize=11;" value="&lt;div style=&quot;text-align:center&quot;&gt;«requirement»&lt;br&gt;&lt;b style=&quot;font-size:12px&quot;&gt;Steering wheel&lt;/b&gt;&lt;/div&gt;&lt;hr size=&quot;1&quot;&gt;Id = “1.1.8”&lt;br&gt;Text = “The Shop Mobility shall be equipped with a steering wheel.”" vertex="1">
+          <mxGeometry height="150" width="160" x="1230" y="490" as="geometry" />
+        </mxCell>
+        <mxCell id="n37" edge="1" parent="1" source="n4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=none;startArrow=circlePlus;startFill=0;startSize=12;exitX=0.5;exitY=1;entryX=0.5;entryY=0;strokeColor=#333333;" target="n36" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="n38" parent="1" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=top;spacingLeft=6;spacingRight=6;fillColor=#f6edcf;strokeColor=#5a5a48;fontSize=11;" value="&lt;div style=&quot;text-align:center&quot;&gt;«requirement»&lt;br&gt;&lt;b style=&quot;font-size:12px&quot;&gt;Single driver&lt;/b&gt;&lt;/div&gt;&lt;hr size=&quot;1&quot;&gt;Id = “1.1.9”&lt;br&gt;Text = “The Shop Mobility shall carry only 1 driver.”" vertex="1">
+          <mxGeometry height="150" width="160" x="1400" y="490" as="geometry" />
+        </mxCell>
+        <mxCell id="n39" edge="1" parent="1" source="n4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=none;startArrow=circlePlus;startFill=0;startSize=12;exitX=0.5;exitY=1;entryX=0.5;entryY=0;strokeColor=#333333;" target="n38" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="n40" parent="1" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=top;spacingLeft=6;spacingRight=6;fillColor=#f6edcf;strokeColor=#5a5a48;fontSize=11;" value="&lt;div style=&quot;text-align:center&quot;&gt;«requirement»&lt;br&gt;&lt;b style=&quot;font-size:12px&quot;&gt;Minimum age&lt;/b&gt;&lt;/div&gt;&lt;hr size=&quot;1&quot;&gt;Id = “1.1.10”&lt;br&gt;Text = “The driver shall be at least 14 years old.”" vertex="1">
+          <mxGeometry height="150" width="160" x="1570" y="490" as="geometry" />
+        </mxCell>
+        <mxCell id="n41" edge="1" parent="1" source="n4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=none;startArrow=circlePlus;startFill=0;startSize=12;exitX=0.5;exitY=1;entryX=0.5;entryY=0;strokeColor=#333333;" target="n40" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
